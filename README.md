@@ -5,7 +5,7 @@ Welcome to my digital workshop, where ideas get brewed and brought to life! For 
 
 - 🌱 I’m currently learning **React.js and modern CSS** 📖 🤓
 
-- 👨‍💻 All of my projects are available at [yaaintmal.github.io/wbscs](yaaintmal.github.io/wbscs) 💻
+- 👨‍💻 All of my projects are available at (https://yaaintmal.github.io/wbscs/) 💻
 
 - 💬 Ask me about **Python, Excel or the future** ☕
 
