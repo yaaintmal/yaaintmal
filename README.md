@@ -27,8 +27,8 @@ My curiosity meter is always pegged to "high," especially when it comes to tomor
 
 When I'm not lost in a sea of code or a new tech rabbit hole, you'll probably find me:
 
-* Yelling "Heja BVB!" at a **Borussia Dortmund** game ⚽ (my heart bleeds yellow and black!).
-* Grooving to some awesome **music** 🎶.
+* Yelling "Heja BVB!" at a **Borussia Dortmund** 🖤💛 game ⚽ (my heart bleeds yellow and black!).
+* Grooving to some awesome **music** 🎤🎶.
 * Chasing the perfect light with my **camera** 📸.
 * Or, you know, flying my **drone** ✈️ (sometimes just for a bird's-eye view of my perpetually messy garden).
 
