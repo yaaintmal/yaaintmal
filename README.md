@@ -42,7 +42,7 @@ When I'm not lost in a sea of code or a new tech rabbit hole, you'll probably fi
 * Yelling "Heja BVB!" at a **Borussia Dortmund** 🖤💛 game ⚽ (my heart bleeds black and yellow!).
 * Grooving to some awesome **music** 🎤🎶.
 * Chasing the perfect light with my **camera** 📸.
-* Or, you know, flying my **drone** ✈️ (sometimes just for a bird's-eye view of my perpetually messy garden).
+* Or flying my **drone** ✈️ (sometimes just for a bird's-eye view of my perpetually messy garden).
 
 ---
 
