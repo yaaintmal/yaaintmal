@@ -30,7 +30,7 @@ My toolkit is a bit like my brain: constantly learning, adapting, and picking up
 
 * **Code Speak:** JavaScript, Python, Node.js, PHP, HTML, CSS (and yes, a tip of the hat to VBA for old times' sake – we all have our humble beginnings!).
 
-  [![Coding](https://i.icoziv.workers.dev/icons?i=python,react,typescript,arduino,tensorflow,javascript,ph,coffeescript,cpp,visualbasic,dotnet&perline=7)](https://github.com/yaaintmal)
+  [![Coding](https://i.icoziv.workers.dev/icons?i=react,typescript,javascript,python,tensorflow,arduino,ph,coffeescript,cpp,visualbasic,dotnet&perline=7)](https://github.com/yaaintmal)
 
 * **Data Whisperers:** MongoDB, MySQL (because every digital story needs a solid memory).
 
