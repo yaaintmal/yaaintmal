@@ -24,7 +24,7 @@ Ever met someone who can talk fiber optics and responsive design in the same bre
 
 ---
 
-### My Digital Toys & Talents 🛠️
+### My Digital Toys & Tools for some magic 🪄🛠️
 
 My toolkit is a bit like my brain: constantly learning, adapting, and picking up new shiny things. Right now, I'm having a blast with:
 
