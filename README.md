@@ -5,8 +5,6 @@ Welcome to my digital workshop, where ideas get brewed and brought to life! For 
 
 - 🌱 I’m currently learning **React.js and modern CSS** 📖 🤓
 
-- 👨‍💻 Some of my smaller projects are available at (https://github.com/yaaintmal) 💻
-
 - 💬 Ask me about **Python, Excel or the future** ☕
 
 ---
