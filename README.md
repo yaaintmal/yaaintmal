@@ -2,10 +2,9 @@
 
 Welcome to my digital workshop, where ideas get brewed and brought to life! For two decades, I was out there mastering the art of the deal, wrangling projects, and even making technical documents sound... well, less technical. But lately, I've traded my corporate cape for a coding keyboard, diving headfirst into the exhilarating world of **full-stack web and app development.** It's like finding a brand new level in a game I've been playing my whole life.
 
+### Beyond the Code: Future-Forward & Fun 🧠💡
 
-- 🌱 I’m currently learning **React.js and modern CSS** 📖 🤓
-
-- 💬 Ask me about **Python, Excel or the future** ☕
+My curiosity meter is always pegged to "high," especially when it comes to tomorrow's tech. **AI** makes my brain tingle, particularly getting cozy with **local LLMs via Ollama**. It's like having a super-smart buddy right on my machine! And if there's a microchip and a blinking LED involved, count me in for an **IoT, ESP, Raspberry Pi, or Arduino** adventure. Merging tried-and-true methods with cutting-edge innovations? That's where the real magic happens.
 
 ---
 
@@ -36,9 +35,7 @@ My toolkit is a bit like my brain: constantly learning, adapting, and picking up
 
 ---
 
-### Beyond the Code: Future-Forward & Fun 🧠💡
 
-My curiosity meter is always pegged to "high," especially when it comes to tomorrow's tech. **AI** makes my brain tingle, particularly getting cozy with **local LLMs via Ollama**. It's like having a super-smart buddy right on my machine! And if there's a microchip and a blinking LED involved, count me in for an **IoT, ESP, Raspberry Pi, or Arduino** adventure. Merging tried-and-true methods with cutting-edge innovations? That's where the real magic happens.
 
 ---
 
