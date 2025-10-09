@@ -21,7 +21,7 @@ My toolkit is a bit like my brain: constantly learning, adapting, and picking up
 
   [![Coding](https://i.icoziv.workers.dev/icons?i=react,typescript,javascript,python,tensorflow,arduino,ph,coffeescript,cpp,visualbasic,dotnet&perline=42)](https://github.com/yaaintmal)
 
-* **Data Whisperers:** MongoDB, MySQL (because every digital story needs a solid memory).
+* **Data Whisperers:** MongoDB, Sqlite & MySQL (because every digital story needs a solid memory).
 
   [![Databases](https://i.icoziv.workers.dev/icons?i=mongodb,mongoose,postman,rmmysql,sqlite,mariadb,firebase,postgresql,dbeaver&perline=42)](https://github.com/yaaintmal)
 
