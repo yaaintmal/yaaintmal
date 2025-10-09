@@ -17,7 +17,7 @@ My curiosity meter is always pegged to "high," especially when it comes to tomor
 
 My toolkit is a bit like my brain: constantly learning, adapting, and picking up new shiny things. Right now, I'm having a blast with:
 
-* **Code Speak:** JavaScript, Python, Node.js, PHP, HTML, CSS (and yes, a tip of the hat to VBA for old times' sake – we all have our humble beginnings!).
+* **Code Speak:** JavaScript, Python, Node.js, PHP, HTML, CSS (and yes, a tip of the hat to VBA & Basic for old times' sake – we all have our humble beginnings!).
 
   [![Coding](https://i.icoziv.workers.dev/icons?i=react,typescript,javascript,python,tensorflow,arduino,ph,coffeescript,cpp,visualbasic,dotnet&perline=42)](https://github.com/yaaintmal)
 
