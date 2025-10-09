@@ -39,6 +39,7 @@ My toolkit is a bit like my brain: constantly learning, adapting, and picking up
 ### Beyond the Code: Future-Forward & Fun 🧠💡
 
 My curiosity meter is always pegged to "high," especially when it comes to tomorrow's tech. **AI** makes my brain tingle, particularly getting cozy with **local LLMs via Ollama**. It's like having a super-smart buddy right on my machine! And if there's a microchip and a blinking LED involved, count me in for an **IoT, ESP, Raspberry Pi, or Arduino** adventure. Merging tried-and-true methods with cutting-edge innovations? That's where the real magic happens.
+
 ---
 
 ### Let's Cook Up Something Cool (Together)! 🫱🏼‍🫲🏾
