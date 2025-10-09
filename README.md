@@ -22,15 +22,15 @@ My toolkit is a bit like my brain: constantly learning, adapting, and picking up
 
 * **Code Speak:** JavaScript, Python, Node.js, PHP, HTML, CSS (and yes, a tip of the hat to VBA for old times' sake – we all have our humble beginnings!).
 
-  [![Coding](https://i.icoziv.workers.dev/icons?i=react,typescript,javascript,python,tensorflow,arduino,ph,coffeescript,cpp,visualbasic,dotnet&perline=7)](https://github.com/yaaintmal)
+  [![Coding](https://i.icoziv.workers.dev/icons?i=react,typescript,javascript,python,tensorflow,arduino,ph,coffeescript,cpp,visualbasic,dotnet&perline=42)](https://github.com/yaaintmal)
 
 * **Data Whisperers:** MongoDB, MySQL (because every digital story needs a solid memory).
 
-  [![Databases](https://i.icoziv.workers.dev/icons?i=mongodb,mongoose,postman,rmmysql,sqlite,mariadb,firebase,postgresql,dbeaver&perline=7)](https://github.com/yaaintmal)
+  [![Databases](https://i.icoziv.workers.dev/icons?i=mongodb,mongoose,postman,rmmysql,sqlite,mariadb,firebase,postgresql,dbeaver&perline=42)](https://github.com/yaaintmal)
 
 * **Creative Crew:** some Framework-Magic here, some lib-shenanigans there and my favorite UI-Tools like the Adobe Crew – because sometimes, code needs a little visual flair.
 
-  [![GFX](https://i.icoziv.workers.dev/icons?i=daisyui,tailwindcss,bootstrap,vuejs,codeigniter,adobeaftereffects,adobephotoshop,adobepremiere,adobexd,&perline=7)](https://github.com/yaaintmal)
+  [![GFX](https://i.icoziv.workers.dev/icons?i=daisyui,tailwindcss,bootstrap,vuejs,codeigniter,adobeaftereffects,adobephotoshop,adobepremiere,adobexd,&perline=42)](https://github.com/yaaintmal)
   
 * **Automation Obsession:** Seriously, I'm hooked on making workflows smarter with tools like n8n. Efficiency is my middle name (well, not really, but it *could* be!).
 
