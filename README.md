@@ -16,12 +16,6 @@ Welcome to my digital workshop, where ideas get brewed and brought to life! For 
 
 --- -->
 
-### My Origin Story (or, "Who Am I, Really?") 🚀🫣
-
-Ever met someone who can talk fiber optics and responsive design in the same breath without breaking a sweat? That's me! I've always been the person who thrives on untangling knots, whether it's a complex client problem or a particularly stubborn bug in the code. My unique blend of B2B and B2C battlefield experience means I'm not just building apps; I'm crafting solutions that genuinely connect with people. Think of me as your friendly neighborhood problem-solver, now powered by JavaScript and Python!
-
----
-
 ### My Digital Toys & Tools for some magic 🪄🛠️
 
 My toolkit is a bit like my brain: constantly learning, adapting, and picking up new shiny things. Right now, I'm having a blast with:
