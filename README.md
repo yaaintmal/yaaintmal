@@ -27,7 +27,7 @@ My toolkit is a bit like my brain: constantly learning, adapting, and picking up
 
 * **Creative Crew:** some Framework-Magic here, some lib-shenanigans there and my favorite UI-Tools like the Adobe Crew – because sometimes, code needs a little visual flair.
 
-  [![GFX](https://i.icoziv.workers.dev/icons?i=daisyui,tailwindcss,bootstrap,vuejs,codeigniter,adobeaftereffects,adobephotoshop,adobepremiere,adobexd,&perline=42)](https://github.com/yaaintmal)
+  [![GFX](https://i.icoziv.workers.dev/icons?i=daisyui,tailwindcss,bootstrap,adobeaftereffects,adobephotoshop,adobepremiere,adobexd,&perline=42)](https://github.com/yaaintmal)
   
 * **Automation Obsession:** Seriously, I'm hooked on making workflows smarter with tools like n8n. Efficiency is my middle name (well, not really, but it *could* be!).
 
