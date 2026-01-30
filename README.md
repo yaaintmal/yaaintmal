@@ -1,40 +1,36 @@
-# Yo, awesome human! 🙌🏾 I'm mal! 👋🏾☺️
+# ❄️ Hey there, I'm Mal 
+### Veteran Coder | Perpetual Student | Human-Centric Automation
 
-For two decades, I was out there mastering the art of the deal, wrangling projects, and even making technical documents sound... well, less technical. But lately, I've traded my corporate cape for a coding keyboard, diving headfirst into the exhilarating world of **full-stack web and app development.** 
-
-My curiosity meter is always pegged to "high," especially when it comes to tomorrow's tech. **AI** makes my brain tingle, particularly getting cozy with **local LLMs via Ollama**. It's like having a super-smart buddy right on my machine! And if there's a microchip and a blinking LED involved, count me in for an **IoT, ESP, Raspberry Pi, or Arduino** adventure. Merging tried-and-true methods with cutting-edge innovations? That's where the real magic happens.
-
----
-
-<!-- <h3 align="left">My favorite tools for some magic:</h3>
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="40" height="40"/> </a> <a href="https://helpx.adobe.com/de/xd/system-requirements.html/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="flask" width="40" height="40"/> </a>
-
-
-
---- -->
-
-### My Digital Toys & Tools for some magic 🪄🛠️
-
-My toolkit is a bit like my brain: constantly learning, adapting, and picking up new shiny things. Right now, I'm having a blast with:
-
-* **Code Speak:** JavaScript, Python, Node.js, PHP, HTML, CSS (and yes, a tip of the hat to VBA & Basic for old times' sake – we all have our humble beginnings!).
-
-  [![Coding](https://i.icoziv.workers.dev/icons?i=react,typescript,javascript,python,tensorflow,arduino,ph,coffeescript,cpp,visualbasic,dotnet&perline=42)](https://github.com/yaaintmal)
-
-* **Data Whisperers:** MongoDB, Sqlite & MariaDB (because every digital story needs a solid memory).
-
-  [![Databases](https://i.icoziv.workers.dev/icons?i=mongodb,mongoose,postman,rmmysql,sqlite,mariadb,firebase,postgresql,dbeaver&perline=42)](https://github.com/yaaintmal)
-
-* **Creative Crew:** some Framework-Magic here, some lib-shenanigans there and my favorite UI-Tools like the Adobe Crew – because sometimes, code needs a little visual flair.
-
-  [![GFX](https://i.icoziv.workers.dev/icons?i=daisyui,tailwindcss,bootstrap,adobeaftereffects,adobephotoshop,adobepremiere,adobexd,&perline=42)](https://github.com/yaaintmal)
-  
-* **Automation Obsession:** Seriously, I'm hooked on making workflows smarter with tools like n8n. Efficiency is my middle name (well, not really, but it *could* be!).
-
-
+> "30 years in tech, and I'm still just a student of the craft."
 
 ---
 
-### Let's Cook Up Something Cool (Together)! 🫱🏼‍🫲🏾
+### 🏔️ The Winter Expedition
+- 🛠️ **Status:** Full-Stack Developer & Software Architect (since '96).
+- 🏢 **Recent Focus:** Workflow Automation & Infrastructure at a **Regional Utility Provider**.
+- 💼 **Background:** Strategic Key Account Management within the **FMCG Sector**.
+- 🎓 **Education:** 637h Intensive Full-Stack Certification @ **WBS Coding School**.
 
-I truly believe that the coolest stuff happens when we **connect and share what we know to help each other grow**. Got an idea brewing? Want to geek out over AI, share some coding tips, or just chat about the beautiful game or the best drone spots? My inbox is open! 
+---
+
+### 🧊 Tools of the Season
+| Category | Stack |
+| :--- | :--- |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,bun,py,go" /> |
+| **Storage** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" /> |
+| **DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,github" /> |
+
+---
+
+### 🌨️ Current Focus
+- 🤖 **AI Igloos:** Developing private, local AI agent workflows and LLM integrations.
+- 🔒 **Deep Frost:** System hardening based on **CompTIA Security+** standards.
+- ⚙️ **Flow:** Converting manual business friction into seamless, automated logic.
+
+---
+
+### ☕ Let's connect
+[malick.wtf](https://malick.wtf) • [me@malick.cloud](mailto:me@malick.cloud)
+
+*"I've seen tech winters come and go since 1996. The tools change, the snow melts, but the logic remains the same. Stay curious."*
