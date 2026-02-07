@@ -1,4 +1,4 @@
-# ❄️ Hey there, I'm Mal 
+# ❄️ it's pretty obviouz: yaaintmal- but I am! 
 ### Veteran Coder | Perpetual Student | Human-Centric Automation
 
 > "30 years in tech, and I'm still just a student of the craft."
