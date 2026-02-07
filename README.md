@@ -1,4 +1,4 @@
-# ❄️ it's pretty obviouz: yaaintmal- but I am! 
+# ❄️ it's pretty obviouz: YAAINTMAL- but I am! 
 ### Veteran Coder | Perpetual Student | Human-Centric Automation
 
 > "30 years in tech, and I'm still just a student of the craft."
