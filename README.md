@@ -17,7 +17,7 @@
 | Category | Stack |
 | :--- | :--- |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,bun,py,go" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,typescript,bun,py,go" /> |
 | **Storage** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" /> |
 | **DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,github" /> |
 
