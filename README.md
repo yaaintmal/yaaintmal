@@ -1,11 +1,12 @@
-# ❄️ it's pretty obviouz: YAAINTMAL- but I am! 
+# 🌱 Spring Awakening: YAAINTMAL- but I am!
+
 ### Veteran Coder | Perpetual Student | Human-Centric Automation
 
 > "30 years in tech, and I'm still just a student of the craft."
 
 ---
 
-### 🏔️ The Winter Expedition
+### 🌿 Spring Growth
 - 🛠️ **Status:** Full-Stack Developer & Software Architect (since '96).
 - 🏢 **Recent Focus:** Workflow Automation & Infrastructure at a **Regional Utility Provider**.
 - 💼 **Background:** Strategic Key Account Management within the **FMCG Sector**.
@@ -13,24 +14,25 @@
 
 ---
 
-### 🧊 Tools of the Season
+### 🌼 Tech-Stack in Full Bloom
+
 | Category | Stack |
 | :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,typescript,bun,py,go" /> |
-| **Storage** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" /> |
-| **DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,github" /> |
+| **Frontend** | ![](https://skillicons.dev/icons?i=react,nextjs,tailwind) |
+| **Backend** | ![](https://skillicons.dev/icons?i=nodejs,typescript,bun,py,go) |
+| **Storage** | ![](https://skillicons.dev/icons?i=mongodb,mysql,sqlite) |
+| **DevOps** | ![](https://skillicons.dev/icons?i=aws,docker,jenkins,github) |
 
 ---
 
-### 🌨️ Current Focus
-- 🤖 **AI Igloos:** Developing private, local AI agent workflows and LLM integrations.
-- 🔒 **Deep Frost:** System hardening based on **CompTIA Security+** standards.
-- ⚙️ **Flow:** Converting manual business friction into seamless, automated logic.
+### ☀️ Spring Cleaning & Focus
+- 🤖 **AI Greenhouses:** Developing private, local AI agent workflows and LLM integrations where new ideas can grow.
+- 🧹 **Spring Cleaning & Security:** System hardening and bringing infrastructure up to speed based on **CompTIA Security+** standards.
+- 🌊 **Thawing the Ice:** Converting manual business friction into seamless, flowing automated logic.
 
 ---
 
 ### ☕ Let's connect
 [malick.wtf](https://malick.wtf) • [me@malick.cloud](mailto:me@malick.cloud)
 
-*"I've seen tech winters come and go since 1996. The tools change, the snow melts, but the logic remains the same. Stay curious."*
+*"I've seen tech seasons change since 1996. The tools evolve, the snow melts to make way for new growth, but the core logic remains the same. Stay curious and keep growing."*
